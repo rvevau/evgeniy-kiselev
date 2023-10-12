@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Evgeniy-Kiselev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in information security
+- 🌱 I’m currently learning C
 - 📫 How to reach me kiselev-05@list.ru
 
 <!---
