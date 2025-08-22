@@ -22,11 +22,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 📊visual stack
-```mermaid
-pie title Распределение навыков
-    "Python & ML" : 35
-    "Системное администрирование" : 30
-    "C и низкоуровневое программирование" : 20
-    "Инфраструктура и сети" : 15
-```
+![Snake animation](https://github.com/rvevau/rvevau/blob/output/github-contribution-grid-snake.svg)
