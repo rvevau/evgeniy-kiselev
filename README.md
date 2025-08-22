@@ -21,5 +21,3 @@
 ### 🐳 containers and web
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-![Snake animation](https://github.com/rvevau/rvevau/blob/output/github-contribution-grid-snake.svg)
