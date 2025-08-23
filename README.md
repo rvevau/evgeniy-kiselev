@@ -1,5 +1,5 @@
   
-![Your languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvevau&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+![Your languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvevau&layout=compact&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvevau&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
