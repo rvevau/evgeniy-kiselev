@@ -1,9 +1,6 @@
 ![Your languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvevau&layout=compact&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&include_private=true&langs_count=20)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvevau&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-
+[comment] : <> (![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvevau&show_icons=true&theme=radical&hide_border=true&bg_color=00000000))
 ---
-
 ### 💻 languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
