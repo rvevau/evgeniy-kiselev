@@ -1,5 +1,5 @@
 ![Your languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvevau&layout=compact&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&include_private=true&langs_count=10)
-
+![Анимированная GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMzZnBmYnlqNGw2eHh1bDZja2J0eWFxZXNtdWJqaWNubmZxNDE1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rvevau&show_icons=true&theme=radical&hide_border=true&bg_color=00000000) -->
 ---
 ### 💻 languages
