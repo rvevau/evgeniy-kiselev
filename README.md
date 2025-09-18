@@ -12,6 +12,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-FC6D0B?style=for-the-badge&logo=samba&logoColor=white)
+![Netplan](https://img.shields.io/badge/Netplan-00A98F?style=for-the-badge)
 <!-- ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) -->
 
 ### 🐳 containers
