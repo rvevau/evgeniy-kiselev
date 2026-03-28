@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Datacode](https://img.shields.io/badge/Datacode-091722?style=for-the-badge&logo=datacode&logoColor=white)](https://github.com/igornet0/datacode)
 
 ### 🐧 sysadmin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
