@@ -5,18 +5,20 @@
 ### 💻 languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🐧 sysadmin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![MediaWiki](https://img.shields.io/badge/MediaWiki-1C6087?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba-FC6D0B?style=for-the-badge&logo=samba&logoColor=white)
 
 ### 🌐 network
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP-FF6F00?style=for-the-badge)
+
+### 🗄️ storage
 ![NFS](https://img.shields.io/badge/NFS-5C5C5C?style=for-the-badge)
 ![LVM](https://img.shields.io/badge/LVM-E95420?style=for-the-badge)
 
@@ -29,7 +31,3 @@
 
 ### 🗄️ db
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ cloud & devops
-![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
