@@ -11,7 +11,6 @@
 ### 🐧 sysadmin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=for-the-badge&logo=zabbix&logoColor=white)
-![MediaWiki](https://img.shields.io/badge/MediaWiki-1C6087?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-FC6D0B?style=for-the-badge&logo=samba&logoColor=white)
 
 ### 🌐 network
@@ -29,6 +28,7 @@
 
 ### 🌐 web
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MediaWiki](https://img.shields.io/badge/MediaWiki-1C6087?style=for-the-badge&logo=wikipedia&logoColor=white)
 
 ### 🗄️ db
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
