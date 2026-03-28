@@ -4,29 +4,32 @@
 ---
 ### 💻 languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-[![Datacode](https://img.shields.io/badge/Datacode-091722?style=for-the-badge&logo=datacode&logoColor=white)](https://github.com/igornet0/datacode)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🐧sysadmin
+### 🐧 sysadmin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D30000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Samba](https://img.shields.io/badge/Samba-FC6D0B?style=for-the-badge&logo=samba&logoColor=white)
-![Netplan](https://img.shields.io/badge/Netplan-00A98F?style=for-the-badge)
-<!-- ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) -->
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🌐 network
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-FF6F00?style=for-the-badge)
+![NFS](https://img.shields.io/badge/NFS-5C5C5C?style=for-the-badge)
+![LVM](https://img.shields.io/badge/LVM-E95420?style=for-the-badge)
 
 ### 🐳 containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### 🌐 web
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PHP-FPM](https://img.shields.io/badge/PHP--FPM-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<!-- ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge) -->
 
 ### 🗄️ db
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- ### 🚀 api
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) -->
+
+### ☁️ cloud & devops
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
